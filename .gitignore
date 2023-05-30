@@ -1,4 +1,7 @@
 # created by virtualenv automatically
 .idea
+Lib/site-packages
+scripts
+
 
 
