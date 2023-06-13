@@ -12,5 +12,13 @@ class auto:
     def birthday(self):
         self.age += 1
 a = auto("Lada", 6, "purple", "Sedan", 1100)
+
+
+
 print(a.age)
 print(a.mark)
+print(a.brand)
+print(a.color)
+print(a.weight)
+a.birthday()
+print(a.age)
