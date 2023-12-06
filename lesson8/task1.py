@@ -1,6 +1,0 @@
-byte_in_str = b'r\xc3\xa9sum\xc3\xa9'.decode()
-print(byte_in_str)
-Latin1_in_bytes = byte_in_str.encode('Latin1')
-print(Latin1_in_bytes)
-Latin1_decoded = Latin1_in_bytes.decode()
-print(Latin1_decoded)
